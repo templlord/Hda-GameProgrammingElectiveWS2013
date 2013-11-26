@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Mario.xnb</Output>
-      <Time>2013-05-28T09:30:05.9747573+02:00</Time>
+      <Output>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Mario.xnb</Output>
+      <Time>2013-11-26T09:31:21.6269777+01:00</Time>
     </Item>
     <Item>
       <Source>Mario2.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Mario2.xnb</Output>
-      <Time>2013-05-28T09:30:05.9747573+02:00</Time>
+      <Output>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Mario2.xnb</Output>
+      <Time>2013-11-26T09:31:21.6269777+01:00</Time>
     </Item>
     <Item>
       <Source>mario3.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\mario3.xnb</Output>
-      <Time>2013-05-28T09:30:05.9747573+02:00</Time>
+      <Output>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\mario3.xnb</Output>
+      <Time>2013-11-26T09:31:21.6269777+01:00</Time>
     </Item>
     <Item>
       <Source>Animations.xml</Source>
@@ -34,8 +34,8 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Animations.xnb</Output>
-      <Time>2013-05-28T09:30:05.9747573+02:00</Time>
+      <Output>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Animations.xnb</Output>
+      <Time>2013-11-26T09:31:21.6269777+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -43,15 +43,15 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighterContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighterContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighterContent\</RootDirectory>
+      <LoggerRootDirectory>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Users\Gitz\Documents\GitHub\Hda-GameProgrammingElectiveSS2013\GridHighlighter\XMLContentExtension\bin\x86\Debug\XMLContentExtension.dll</Key>
-        <Value>2013-06-29T12:00:24.8293192+02:00</Value>
+        <Key>D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\bin\x86\Debug\XMLContentExtension.dll</Key>
+        <Value>2013-11-26T10:02:51.1755341+01:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
@@ -79,7 +79,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-04-09T10:01:29.4775237+02:00</Value>
+        <Value>2012-10-22T09:18:02.4557292+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

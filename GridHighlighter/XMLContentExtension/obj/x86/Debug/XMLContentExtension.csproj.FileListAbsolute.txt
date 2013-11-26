@@ -19,3 +19,10 @@ D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\XML
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\XMLContentExtension\obj\x86\Debug\XMLContentExtension.csprojResolveAssemblyReference.cache
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\XMLContentExtension\obj\x86\Debug\XMLContentExtension.dll
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\XMLContentExtension\obj\x86\Debug\XMLContentExtension.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\bin\x86\Debug\XMLContentExtension.dll
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\bin\x86\Debug\XMLContentExtension.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\bin\x86\Debug\GameLibrary.dll
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\bin\x86\Debug\GameLibrary.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\obj\x86\Debug\XMLContentExtension.csprojResolveAssemblyReference.cache
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\obj\x86\Debug\XMLContentExtension.dll
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\XMLContentExtension\obj\x86\Debug\XMLContentExtension.pdb

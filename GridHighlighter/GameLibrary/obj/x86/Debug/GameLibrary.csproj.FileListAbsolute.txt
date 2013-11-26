@@ -15,3 +15,9 @@ D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\Gam
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GameLibrary\obj\x86\Debug\GameLibrary.dll
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GameLibrary\obj\x86\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GameLibrary\obj\x86\Debug\GameLibrary.pdb

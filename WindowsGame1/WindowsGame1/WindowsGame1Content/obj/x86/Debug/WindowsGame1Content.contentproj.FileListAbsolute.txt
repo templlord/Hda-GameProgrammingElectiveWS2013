@@ -1,1 +1,2 @@
 D:\boris\uni\testproject\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache

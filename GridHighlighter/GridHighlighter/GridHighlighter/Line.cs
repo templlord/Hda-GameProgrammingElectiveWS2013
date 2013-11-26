@@ -18,7 +18,7 @@ namespace GridHighlighter
         private int spriteID;
 
         //Constructor
-        public Line(Waypoint lineStart, Waypoint lineEnd, int gridSize, Color lineColor, float lineWidth)
+        public Line(IntVector2 lineStart, IntVector2 lineEnd, int gridSize, Color lineColor, float lineWidth)
         {
             start = lineStart.ConvertToScreenCoordinates(gridSize);
             end = lineEnd.ConvertToScreenCoordinates(gridSize);

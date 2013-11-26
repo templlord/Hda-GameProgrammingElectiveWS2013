@@ -68,8 +68,11 @@ namespace WindowsGame1
             m_marioList.Add(this.Content.Load<Texture2D>("Mario4"));
             // TODO: use this.Content to load your game content here
 
-
-            m_soundEffects.Add(this.Content.Load<SoundEffect>("button1"));
+            try
+            {
+                m_soundEffects.Add(this.Content.Load<SoundEffect>("button1"));
+            }
+            catch (Exception e) { }
         }
 
         /// <summary>

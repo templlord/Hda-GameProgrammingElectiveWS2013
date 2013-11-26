@@ -22,21 +22,17 @@ namespace GridHighlighter
 
         public void AddWaypoint(int x, int y)
         {
-            waypoints.list.Add(new Waypoint(x, y));
+            waypoints.list.Add(new IntVector2(x, y));
         }
 
-        public void AddLine(Waypoint a, Waypoint b, int gridSize)
+        public void AddLine(IntVector2 a, IntVector2 b, int gridSize)
         {
             lines.Add(new Line(a, b, gridSize, Color.Orange, 1));
         }
 
         public bool IsValid()
         {
-            if (waypoints.HasValidLength())
-            {
-                return true;
-            }
-            return false;
+						return waypoints.HasValidLength();
         }
     }
 }

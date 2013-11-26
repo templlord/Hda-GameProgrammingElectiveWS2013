@@ -9,3 +9,14 @@ D:\boris\uni\testproject\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Co
 D:\boris\uni\testproject\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mario4.xnb
 D:\boris\uni\testproject\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button1.xnb
 D:\boris\uni\testproject\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Mario.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Mario2.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mario3.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mario4.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\button1.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

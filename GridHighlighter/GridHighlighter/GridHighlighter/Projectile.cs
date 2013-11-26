@@ -68,11 +68,7 @@ namespace GridHighlighter
 
         public bool CheckIfOnScreen(Rectangle screenRect)
         {
-            if (screenRect.Contains(rectangle))
-            {
-                return true;
-            }
-            return false;
+					return screenRect.Contains(rectangle);
         }
     }
 }

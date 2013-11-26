@@ -34,3 +34,15 @@ D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\Gri
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\GridHighlighter.pdb
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\GameLibrary.dll
 D:\Users\Jessica\Documents\Hda-GameProgrammingElectiveSS2013\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\GameLibrary.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Mario.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Mario2.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\mario3.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\Content\Animations.xnb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\GridHighlighter.exe
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\GridHighlighter.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\GameLibrary.dll
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\bin\x86\Debug\GameLibrary.pdb
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\obj\x86\Debug\GridHighlighter.csprojResolveAssemblyReference.cache
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\obj\x86\Debug\GridHighlighter.exe
+D:\ProjectLocal\Uni Semester5\Electives\GP\Project\GridHighlighter\GridHighlighter\GridHighlighter\obj\x86\Debug\GridHighlighter.pdb

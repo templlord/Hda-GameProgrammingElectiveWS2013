@@ -8,21 +8,17 @@ namespace GridHighlighter
 {
     public class WayPointList
     {
-        public List<Waypoint> list;
+        public List<IntVector2> list;
 
         //Constructor
         public WayPointList()
         {
-            list = new List<Waypoint>();
+            list = new List<IntVector2>();
         }
 
         public bool HasValidLength()
         {
-            if (list.Count > 1)
-            {
-                return true;
-            }
-            return false;
+						return list.Count > 1;
         }
 
         public int FindNearestStartingWaypointIndex(int x, int y)
@@ -30,7 +26,7 @@ namespace GridHighlighter
             if (HasValidLength())
             {
                 Vector2 selectedPoint = new Vector2(x,y);
-                Waypoint currentWaypoint;
+                IntVector2 currentWaypoint;
                 int listLength = list.Count;
                 int i;
                 int nearestWayPointIndex = 0;
@@ -59,11 +55,7 @@ namespace GridHighlighter
 
         private bool IsLastIndex(int i, int length)
         {
-            if (i == length - 1)
-            {
-                return true;
-            }
-            return false;
+						return i == length - 1;
         }
     }
 }
