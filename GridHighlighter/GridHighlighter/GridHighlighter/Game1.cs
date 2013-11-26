@@ -102,13 +102,21 @@ namespace GridHighlighter
 
 			previousMouseState = mouseState;
 			mouseState = Mouse.GetState();
-			for (int i = 0; i < grid.GetLength(0); ++i)
+			
+			Tile curTile = null;
+			int gridIndexLength = grid.GetLength(0);
+			int gridEntryLength = grid.GetLength(1);
+
+
+			for (int i = 0; i < gridIndexLength; ++i)
 			{
-				for (int j = 0; j < grid.GetLength(1); ++j)
+				for (int j = 0; j < gridEntryLength; ++j)
 				{
-					if (grid[i, j].getStatus() != ETileStatus.eTS_waypoint && grid[i, j].getStatus() != ETileStatus.eTS_occupied) 
+					curTile = grid[i, j];
+
+					if (curTile.getStatus() != ETileStatus.eTS_waypoint && curTile.getStatus() != ETileStatus.eTS_occupied) 
 					{
-						grid[i, j].setDefault();
+						curTile.setDefault();
 					}
 				}
 			}
